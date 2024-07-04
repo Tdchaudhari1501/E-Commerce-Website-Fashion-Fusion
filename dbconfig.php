@@ -1,8 +1,8 @@
 <?php  
 // Database configuration  
 $dbHost     = "localhost";  
-$dbUsername = "Admin";  
-$dbPassword = "Tushar@1501";  
+$dbUsername = "";  
+$dbPassword = "";  
 $dbName     = "blog";  
   
 // Create database connection  
